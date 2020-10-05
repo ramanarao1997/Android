@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car_names">
+        <item> Audi Q7 3T </item>
+        <item> Dodge Dart SXT </item>
+        <item> Chevrolet Impala </item>
+        <item> Chevrolet Malibu </item>
+        <item> Honda Civic </item>
+        <item> Toyota Camry </item>
+    </string-array>
+
+    <string-array name="car_manufacturer_links">
+        <item> https://www.audiusa.com/us/web/en/models/q7/q7/2021/overview.html </item>
+        <item> https://www.dodge.com/dart.html </item>
+        <item> https://www.chevrolet.com/cars/impala </item>
+        <item> https://www.chevrolet.com/cars/malibu </item>
+        <item> https://automobiles.honda.com/civic </item>
+        <item> https://www.toyota.com/camry </item>
+    </string-array>
+
+    <string-array name="car_sellers1">
+        <item> McGrath Acura of Downtown Chicago @ 1301 N Elston Ave, Chicago, IL 60642 </item>
+        <item> Midway Dodge @ 4747 S Pulaski Rd, Chicago, IL 60632 </item>
+        <item> Mike Anderson Chevrolet of Chicago @ 5333 W Irving Park Rd, Chicago, IL 60641 </item>
+        <item> Mike Anderson Chevrolet of Chicago @ 5333 W Irving Park Rd, Chicago, IL 60641 </item>
+        <item> Honda of Downtown Chicago @ 1111 N Clark St #2, Chicago, IL 60610 </item>
+        <item> Chicago Northside Toyota @ 6042 N Western Ave, Chicago, IL 60659 </item>
+    </string-array>
+
+    <string-array name="car_sellers2">
+        <item> Fletcher Jones Audi @ 1523 W North Ave, Chicago, IL 60642 </item>
+        <item> Marino Chrysler Jeep Dodge @ 5133 W Irving Park Rd, Chicago, IL 60641 </item>
+        <item> Rogers Auto Group Chicago @ 2720 S Michigan Ave, Chicago, IL 60616 </item>
+        <item> Rogers Auto Group Chicago @ 2720 S Michigan Ave, Chicago, IL 60616 </item>
+        <item> Honda City Chicago @ 4950 S Pulaski Rd, Chicago, IL 60632 </item>
+        <item> Toyota On Western @ 6941 S Western Ave, Chicago, IL 60636 </item>
+    </string-array>
+
+    <string-array name="car_sellers3">
+        <item> Sam\'s Auto Sales @ 6815 S Western Ave, Chicago, IL 60636 </item>
+        <item> South Chicago Dodge Chrysler Jeep @ 7340 S Western Ave, Chicago, IL 60636 </item>
+        <item> Kingdom Chevy @ 6603 S Western Ave, Chicago, IL 60636 </item>
+        <item> Kingdom Chevy @ 6603 S Western Ave, Chicago, IL 60636 </item>
+        <item> McGrath City Honda @ 6720 W Grand Ave., Chicago, IL 60707 </item>
+        <item> Midtown Toyota @ 2700 N Cicero Ave, Chicago, IL 60639 </item>
+    </string-array>
+</resources>
+
+
+
+
